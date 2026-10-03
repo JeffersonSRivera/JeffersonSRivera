@@ -1,64 +1,79 @@
-# ¡Hola! Soy [Tu Nombre] 👋
+# ¡Hola! Soy Jefferson Sebastian Rivera Paz 👋
 
 ### 🚀 Sobre mí
-¡Bienvenido/a a mi perfil de GitHub! Soy un/a apasionado/a del desarrollo de software enfocado en crear soluciones eficientes y visualmente atractivas. 
 
-- 🔭 Actualmente estoy trabajando en **[Tu Proyecto Actual o Empresa]**
-- 🌱 Estoy aprendiendo y profundizando en **[Tecnología que estás estudiando, ej: Next.js o Docker]**
-- 💬 Pregúntame sobre **[Tus temas fuertes, ej: React, Python o CSS]**
-- ⚡ Dato curioso: **[Algo divertido sobre ti, ej: Prefiero el café frío o juego ajedrez]**
+¡Bienvenido/a a mi perfil de GitHub! Soy estudiante de **Desarrollo de Software en SENATI**, actualmente cursando el **5.º ciclo**, interesado en crear soluciones eficientes y aprender nuevas tecnologías.
+
+* 🔭 Actualmente estoy trabajando en **proyectos académicos y personales de desarrollo de software**
+* 🌱 Estoy aprendiendo y profundizando en **Python, Inteligencia Artificial y automatización**
+* 💬 Pregúntame sobre **Python, Java, C++ y desarrollo de software**
+* 🎯 Mi objetivo profesional es especializarme en **Inteligencia Artificial, automatización y desarrollo de soluciones de software**
+* ⚡ Dato curioso: **Me gusta aprender nuevas tecnologías y convertir ideas en proyectos**
 
 ---
 
 ### 🛠️ Mis Tecnologías y Herramientas
 
 #### **Frontend**
-`HTML5` • `CSS3` • `JavaScript` • `TypeScript` • `React` • `Next.js` • `TailwindCSS`
+
+`HTML5` • `CSS3` • `JavaScript`
 
 #### **Backend & BD**
-`Node.js` • `Python` • `Java` • `PostgreSQL` • `MongoDB`
+
+`Python` • `Java` • `C++` • `MySQL`
 
 #### **Herramientas & Cloud**
-`Git` • `Docker` • `AWS` • `Linux` • `VS Code`
+
+`Git` • `GitHub` • `VS Code` • `Azure`
 
 ---
 
 ### 💻 Proyectos Destacados
-Aquí tienes algunos de los proyectos de los que me siento más orgulloso/a:
 
-1. **[Nombre del Proyecto 1]**  
-   * **Descripción:** Una breve línea explicando qué hace el proyecto (ej: Plataforma de comercio electrónico con pasarela de pagos).
-   * **Tecnologías:** `React`, `Node.js`, `MongoDB`
-   * **Enlaces:** [📂 Código](https://github.com) | [🚀 Demo en vivo](https://tu-sitio-web.com)
+Aquí tienes algunos de los proyectos en los que estoy trabajando para fortalecer mis conocimientos:
 
-2. **[Nombre del Proyecto 2]**  
-   * **Descripción:** Aplicación móvil o API REST para gestión de tareas automatizadas.
-   * **Tecnologías:** `Python`, `FastAPI`, `PostgreSQL`
-   * **Enlaces:** [📂 Código](https://github.com) | [🚀 Demo en vivo](https://tu-sitio-web.com)
+1. **Sistema de Gestión de Tareas**
+
+   * **Descripción:** Aplicación sencilla para registrar, modificar, eliminar y organizar tareas.
+   * **Tecnologías:** `Python`
+   * **Enlaces:** Próximamente
+
+2. **Sistema de Registro de Estudiantes**
+
+   * **Descripción:** Aplicación para registrar estudiantes, consultar información y gestionar sus datos.
+   * **Tecnologías:** `Java` • `MySQL`
+   * **Enlaces:** Próximamente
+
+3. **Página Web Personal**
+
+   * **Descripción:** Página web para presentar información personal, habilidades y proyectos.
+   * **Tecnologías:** `HTML5` • `CSS3` • `JavaScript`
+   * **Enlaces:** Próximamente
 
 ---
 
 ### 📜 Certificaciones
-* 🎓 **[Nombre de la Certificación 1]** – *Emitido por [Institución, ej: Google, Udemy, Platzi]* ([Ver credencial](https://enlace-a-tu-certificado.com))
-* 🎓 **[Nombre de la Certificación 2]** – *Emitido por [Institución]* ([Ver credencial](https://enlace-a-tu-certificado.com))
+
+* 🎓 **Microsoft Certified: Azure Fundamentals (AZ-900)** – *Microsoft*
 
 ---
 
 ### 📊 Mis Estadísticas de GitHub
+
 *(Estas tarjetas se actualizarán automáticamente con tu actividad real)*
 
-<!-- REPLAZA "tu-usuario" por tu nombre exacto de GitHub en los siguientes enlaces -->
 <p align="center">
-  <img src="https://vercel.app" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JeffersonSRivera&show_icons=true" alt="Estadísticas de GitHub" />
   <br/>
-  <img src="https://vercel.app" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeffersonSRivera&layout=compact" alt="Lenguajes más usados" />
 </p>
 
 ---
 
 ### 📬 Conéctate conmigo
+
 ¿Tienes algún proyecto en mente o simplemente quieres saludar?
 
-- **LinkedIn:** [://linkedin.com](https://://linkedin.com)
-- **Twitter/X:** [@tu-usuario](https://x.com)
-- **Email:** tu-correo@email.com
+* **LinkedIn:** [Jefferson Sebastian Rivera Paz](https://www.linkedin.com/in/jeffersonsebastianriverapaz/)
+* **GitHub:** [JeffersonSRivera](https://github.com/JeffersonSRivera)
+* **Email:** [s2515218@gmail.com](mailto:s2515218@gmail.com)
